@@ -1,2 +1,3 @@
-# open-web-app-fqyc
-A web application for modern development workflows
+# Open Web App Fqyc
+
+A web application for modern development workflows.
